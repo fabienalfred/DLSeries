@@ -42,7 +42,13 @@ a {
 	width: 100%;
 }
 
+#resultTable th {
+	text-align: left;
+}
 
+#resultTable td {
+	text-align: left;
+}
 
 #divFormSerie {
 	position: fixed;
@@ -70,3 +76,5 @@ a {
 #menuTabs a {
 	font-size: medium;
 }
+
+
